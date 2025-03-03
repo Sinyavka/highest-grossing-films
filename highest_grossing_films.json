@@ -1,0 +1,402 @@
+[
+    {
+        "title": "Avatar",
+        "year": 2009,
+        "box_office": 2923706026,
+        "link": "https://en.wikipedia.org/wiki/Avatar_(2009_film)",
+        "director": "James Cameron",
+        "country": "United Kingdom, United States"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "year": 2019,
+        "box_office": 2797501328,
+        "link": "https://en.wikipedia.org/wiki/Avengers:_Endgame",
+        "director": "Anthony RussoJoe Russo",
+        "country": "United States"
+    },
+    {
+        "title": "Avatar: The Way of Water",
+        "year": 2022,
+        "box_office": 2320250281,
+        "link": "https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water",
+        "director": "James Cameron",
+        "country": "United States"
+    },
+    {
+        "title": "Titanic",
+        "year": 1997,
+        "box_office": 2257844554,
+        "link": "https://en.wikipedia.org/wiki/Titanic_(1997_film)",
+        "director": "James Cameron",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: The Force Awakens",
+        "year": 2015,
+        "box_office": 2068223624,
+        "link": "https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens",
+        "director": "J. J. Abrams",
+        "country": "United States"
+    },
+    {
+        "title": "Avengers: Infinity War",
+        "year": 2018,
+        "box_office": 2048359754,
+        "link": "https://en.wikipedia.org/wiki/Avengers:_Infinity_War",
+        "director": "Anthony RussoJoe Russo",
+        "country": "United States"
+    },
+    {
+        "title": "Ne Zha 2",
+        "year": 2025,
+        "box_office": 1989212560,
+        "link": "https://en.wikipedia.org/wiki/Ne_Zha_2",
+        "director": "Jiaozi",
+        "country": "China"
+    },
+    {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "box_office": 1922598800,
+        "link": "https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home",
+        "director": "Jon Watts",
+        "country": "United States"
+    },
+    {
+        "title": "Inside Out 2",
+        "year": 2024,
+        "box_office": 1698863816,
+        "link": "https://en.wikipedia.org/wiki/Inside_Out_2",
+        "director": "Kelsey Mann",
+        "country": "United States"
+    },
+    {
+        "title": "Jurassic World",
+        "year": 2015,
+        "box_office": 1671537444,
+        "link": "https://en.wikipedia.org/wiki/Jurassic_World",
+        "director": "Colin Trevorrow",
+        "country": "United States"
+    },
+    {
+        "title": "The Lion King",
+        "year": 2019,
+        "box_office": 1656943394,
+        "link": "https://en.wikipedia.org/wiki/The_Lion_King_(2019_film)",
+        "director": "Jon Favreau",
+        "country": "United States"
+    },
+    {
+        "title": "The Avengers",
+        "year": 2012,
+        "box_office": 1518815515,
+        "link": "https://en.wikipedia.org/wiki/The_Avengers_(2012_film)",
+        "director": "Joss Whedon",
+        "country": "United States"
+    },
+    {
+        "title": "Furious 7",
+        "year": 2015,
+        "box_office": 1515341399,
+        "link": "https://en.wikipedia.org/wiki/Furious_7",
+        "director": "James Wan",
+        "country": "United States China"
+    },
+    {
+        "title": "Top Gun: Maverick",
+        "year": 2022,
+        "box_office": 1495696292,
+        "link": "https://en.wikipedia.org/wiki/Top_Gun:_Maverick",
+        "director": "Joseph Kosinski",
+        "country": "United States"
+    },
+    {
+        "title": "Frozen 2",
+        "year": 2019,
+        "box_office": 1450026933,
+        "link": "https://en.wikipedia.org/wiki/Frozen_2",
+        "director": "Chris Buck, Jennifer Lee",
+        "country": "United States"
+    },
+    {
+        "title": "Barbie",
+        "year": 2023,
+        "box_office": 1447038421,
+        "link": "https://en.wikipedia.org/wiki/Barbie_(film)",
+        "director": "Greta Gerwig",
+        "country": "United States, United Kingdom"
+    },
+    {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "box_office": 1402809540,
+        "link": "https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron",
+        "director": "Joss Whedon",
+        "country": "United States"
+    },
+    {
+        "title": "The Super Mario Bros. Movie",
+        "year": 2023,
+        "box_office": 1362566989,
+        "link": "https://en.wikipedia.org/wiki/The_Super_Mario_Bros._Movie",
+        "director": "Aaron Horvath, Michael Jelenic",
+        "country": "United States"
+    },
+    {
+        "title": "Black Panther",
+        "year": 2018,
+        "box_office": 1347280838,
+        "link": "https://en.wikipedia.org/wiki/Black_Panther_(film)",
+        "director": "Ryan Coogler",
+        "country": "United States"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows – Part 2",
+        "year": 2011,
+        "box_office": 1342139727,
+        "link": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2",
+        "director": "David Yates",
+        "country": "United Kingdom, United States"
+    },
+    {
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "box_office": 1338073645,
+        "link": "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine",
+        "director": "Shawn Levy",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: The Last Jedi",
+        "year": 2017,
+        "box_office": 1332539889,
+        "link": "https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi",
+        "director": "Rian Johnson",
+        "country": "United States"
+    },
+    {
+        "title": "Jurassic World: Fallen Kingdom",
+        "year": 2018,
+        "box_office": 1308473425,
+        "link": "https://en.wikipedia.org/wiki/Jurassic_World:_Fallen_Kingdom",
+        "director": "J. A. Bayona",
+        "country": "China, United States"
+    },
+    {
+        "title": "Frozen",
+        "year": 2013,
+        "box_office": 1290000000,
+        "link": "https://en.wikipedia.org/wiki/Frozen_(2013_film)",
+        "director": "Chris Buck, Jennifer Lee",
+        "country": "United States"
+    },
+    {
+        "title": "Beauty and the Beast",
+        "year": 2017,
+        "box_office": 1263521126,
+        "link": "https://en.wikipedia.org/wiki/Beauty_and_the_Beast_(2017_film)",
+        "director": "Bill Condon",
+        "country": "United States"
+    },
+    {
+        "title": "Incredibles 2",
+        "year": 2018,
+        "box_office": 1242805359,
+        "link": "https://en.wikipedia.org/wiki/Incredibles_2",
+        "director": "Brad Bird",
+        "country": "United States"
+    },
+    {
+        "title": "The Fate of the Furious",
+        "year": 2017,
+        "box_office": 81238764765,
+        "link": "https://en.wikipedia.org/wiki/The_Fate_of_the_Furious",
+        "director": "F. Gary Gray",
+        "country": "United States, China"
+    },
+    {
+        "title": "Iron Man 3",
+        "year": 2013,
+        "box_office": 1214811252,
+        "link": "https://en.wikipedia.org/wiki/Iron_Man_3",
+        "director": "Shane Black",
+        "country": "United States"
+    },
+    {
+        "title": "Minions",
+        "year": 2015,
+        "box_office": 1159444662,
+        "link": "https://en.wikipedia.org/wiki/Minions_(film)",
+        "director": "Pierre Coffin, Kyle Balda",
+        "country": "United States"
+    },
+    {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "box_office": 1153337496,
+        "link": "https://en.wikipedia.org/wiki/Captain_America:_Civil_War",
+        "director": "Anthony RussoJoe Russo",
+        "country": "United States"
+    },
+    {
+        "title": "Aquaman",
+        "year": 2018,
+        "box_office": 1148528393,
+        "link": "https://en.wikipedia.org/wiki/Aquaman_(film)",
+        "director": "James Wan",
+        "country": "United States"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": 2003,
+        "box_office": 1147997407,
+        "link": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King",
+        "director": "Peter Jackson",
+        "country": "New Zealand, Germany, United States"
+    },
+    {
+        "title": "Spider-Man: Far From Home",
+        "year": 2019,
+        "box_office": 1132679685,
+        "link": "https://en.wikipedia.org/wiki/Spider-Man:_Far_From_Home",
+        "director": "Jon Watts",
+        "country": "United States"
+    },
+    {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "box_office": 1128274794,
+        "link": "https://en.wikipedia.org/wiki/Captain_Marvel_(film)",
+        "director": "Anna BodenRyan Fleck",
+        "country": "United States"
+    },
+    {
+        "title": "Transformers: Dark of the Moon",
+        "year": 2011,
+        "box_office": 1123794079,
+        "link": "https://en.wikipedia.org/wiki/Transformers:_Dark_of_the_Moon",
+        "director": "Michael Bay",
+        "country": "United States"
+    },
+    {
+        "title": "Skyfall",
+        "year": 2012,
+        "box_office": 1108594137,
+        "link": "https://en.wikipedia.org/wiki/Skyfall",
+        "director": "Sam Mendes",
+        "country": "United Kingdom, United States"
+    },
+    {
+        "title": "Transformers: Age of Extinction",
+        "year": 2014,
+        "box_office": 1104054072,
+        "link": "https://en.wikipedia.org/wiki/Transformers:_Age_of_Extinction",
+        "director": "Michael Bay",
+        "country": "United States"
+    },
+    {
+        "title": "The Dark Knight Rises",
+        "year": 2012,
+        "box_office": 1081169825,
+        "link": "https://en.wikipedia.org/wiki/The_Dark_Knight_Rises",
+        "director": "Christopher Nolan",
+        "country": "United States, United Kingdom"
+    },
+    {
+        "title": "Joker",
+        "year": 2019,
+        "box_office": 1074458282,
+        "link": "https://en.wikipedia.org/wiki/Joker_(2019_film)",
+        "director": "Todd Phillips",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: The Rise of Skywalker",
+        "year": 2019,
+        "box_office": 1074144248,
+        "link": "https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker",
+        "director": "J. J. Abrams",
+        "country": "United States"
+    },
+    {
+        "title": "Toy Story 4",
+        "year": 2019,
+        "box_office": 1073394593,
+        "link": "https://en.wikipedia.org/wiki/Toy_Story_4",
+        "director": "Josh Cooley",
+        "country": "United States"
+    },
+    {
+        "title": "Toy Story 3",
+        "year": 2010,
+        "box_office": 1066970811,
+        "link": "https://en.wikipedia.org/wiki/Toy_Story_3",
+        "director": "Lee Unkrich",
+        "country": "United States"
+    },
+    {
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": 2006,
+        "box_office": 1066179747,
+        "link": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest",
+        "director": "Gore Verbinski",
+        "country": "United States"
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "year": 2016,
+        "box_office": 1057420387,
+        "link": "https://en.wikipedia.org/wiki/Rogue_One:_A_Star_Wars_Story",
+        "director": "Gareth Edwards",
+        "country": "United States"
+    },
+    {
+        "title": "Moana 2",
+        "year": 2024,
+        "box_office": 1053978188,
+        "link": "https://en.wikipedia.org/wiki/Moana_2",
+        "director": "David Derrick Jr., Jason Hand, Dana Ledoux Miller",
+        "country": "United States"
+    },
+    {
+        "title": "Aladdin",
+        "year": 2019,
+        "box_office": 1050693953,
+        "link": "https://en.wikipedia.org/wiki/Aladdin_(2019_film)",
+        "director": "Guy Ritchie",
+        "country": "United States"
+    },
+    {
+        "title": "Star Wars: Episode I – The Phantom Menace",
+        "year": 1999,
+        "box_office": 1046515409,
+        "link": "https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace",
+        "director": "George Lucas",
+        "country": "United States"
+    },
+    {
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "year": 2011,
+        "box_office": 1045713802,
+        "link": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides",
+        "director": "Rob Marshall",
+        "country": "United States"
+    },
+    {
+        "title": "Jurassic Park",
+        "year": 1993,
+        "box_office": 1037535230,
+        "link": "https://en.wikipedia.org/wiki/Jurassic_Park_(film)",
+        "director": "Steven Spielberg",
+        "country": "United States"
+    },
+    {
+        "title": "Despicable Me 3",
+        "year": 2017,
+        "box_office": 1034800131,
+        "link": "https://en.wikipedia.org/wiki/Despicable_Me_3",
+        "director": "Pierre Coffin, Kyle Balda",
+        "country": "United States"
+    }
+]
